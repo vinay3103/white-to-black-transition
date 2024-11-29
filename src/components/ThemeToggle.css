@@ -1,0 +1,11 @@
+.theme-toggle-btn {
+  background-color: transparent;
+  border: 1px solid currentColor;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+.theme-toggle-btn:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
